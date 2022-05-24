@@ -1,26 +1,26 @@
 # Python
 
-PyQt + Blender game - 
+PyQt + Blender game - 2022
 
 https://youtu.be/DMNsAlHA2m0
 
 --------------------------------------
 
 
-Python Tkinter - amoeba game - 
+Python Tkinter - amoeba game - 2020
 
 https://youtu.be/eddTwABCG-4
 
 --------------------------------------
 
 
-Python Tkinter - hangman game - 
+Python Tkinter - hangman game - 2020
 
 https://youtu.be/ldNrv5EAVTs
 
 --------------------------------------
 
 
-PyTorch course project blogpost - 
+PyTorch course project blogpost - 2020
 
 https://medium.com/@dethati/image-classification-techniques-on-the-same-yet-different-dataset-5755367ac5bc
