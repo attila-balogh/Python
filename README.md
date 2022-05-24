@@ -1,6 +1,6 @@
 # Python
 
-PyQt + Blender game - 2022
+Python PyQt + Blender - game - 2022
 
 https://youtu.be/DMNsAlHA2m0
 
