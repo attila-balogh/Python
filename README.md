@@ -1,13 +1,13 @@
 # Python
 
-PyQt + Blender game - 
+##PyQt + Blender game - 
 
 https://youtu.be/DMNsAlHA2m0
 
 
 
 
-Python Tkinter - amoeba game - 
+###Python Tkinter - amoeba game - 
 
 https://youtu.be/eddTwABCG-4
 
