@@ -135,7 +135,8 @@ pneumonia_test_size = 300
 pneumonia_val_size = 200
 pneumonia_train_size = len(train_ds_pneumonia_path) - pneumonia_test_size - pneumonia_val_size
 
-train_ds_pneumonia_path, test_ds_pneumonia_path, val_ds_pneumonia_path = random_split(train_ds_pneumonia_path, [pneumonia_train_size, pneumonia_test_size, pneumonia_val_size])
+train_ds_pneumonia_path, test_ds_pneumonia_path, val_ds_pneumonia_path = random_split(train_ds_pneumonia_path, 
+                                                                                      [pneumonia_train_size, pneumonia_test_size, pneumonia_val_size])
 
 # In the training set there are about 3 times as many pneumonia images as normal images, which could cause nonoptimal learning
 # With data augmentation the number of normal images can be increased
